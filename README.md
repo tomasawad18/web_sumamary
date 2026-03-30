@@ -26,7 +26,7 @@ python-dotenv
 openai (used with OpenRouter API)
 Installation
 # Clone the repository
-git clone https://github.com/tomasawad18/genai-website-summarizer.git
+git clone https://github.com/tomasawad18/web_sumamary.git
 
 # Navigate into the project
 cd genai-website-summarizer
